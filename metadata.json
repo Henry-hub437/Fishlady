@@ -1,0 +1,8 @@
+{
+  "name": "The Fish Lady - Premium Restaurant",
+  "description": "A high-end modern restaurant in Lekki Phase I, Lagos, featuring premium seafood, elegant dining, and reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
